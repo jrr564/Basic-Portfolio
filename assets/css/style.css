@@ -186,7 +186,7 @@ h1 {
 
 h3 {
 	position: absolute;
-	color: #ffffff;
+	color: white;
 	bottom: 20px;
   	width: 200px;
   	padding: 10px;
@@ -234,8 +234,8 @@ footer {
 	border-top-color: #4aaaa5;
 }
 
-#liri {
-	length: 200px;
+#liri , #hangman {
+	width: 200px;
 	height: auto;
 
 
